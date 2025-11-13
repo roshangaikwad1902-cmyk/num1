@@ -1,0 +1,69 @@
+{
+  "app": {
+    "name": "SmartKrishi Maharashtra",
+    "tagline": "AI-Driven Smart Farming"
+  },
+  "auth": {
+    "welcome": "Welcome",
+    "loginWithPhone": "Login with Phone",
+    "loginWithEmail": "Login with Email",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+91 90000 11111",
+    "sendOTP": "Send OTP",
+    "otp": "OTP",
+    "otpPlaceholder": "123456",
+    "verify": "Verify",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "otpSent": "OTP Sent!",
+    "loginSuccess": "Login Successful",
+    "invalidCredentials": "Invalid Credentials",
+    "switchToPhone": "Switch to Phone",
+    "switchToEmail": "Switch to Email"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Today's Overview",
+    "ndviHealth": "NDVI Health",
+    "soilMoisture": "Soil Moisture",
+    "irrigationNeed": "Irrigation Need",
+    "rainfall": "Rainfall Forecast",
+    "groundwater": "Groundwater Level",
+    "diseaseRisk": "Disease Risk",
+    "yieldForecast": "Yield Forecast",
+    "lastUpdated": "Last Updated",
+    "litersPerAcre": "L/acre",
+    "mm": "mm",
+    "meters": "m",
+    "quintalsPerAcre": "q/acre",
+    "healthy": "Healthy",
+    "moderate": "Moderate",
+    "low": "Low",
+    "high": "High",
+    "irrigateNow": "Irrigate Now",
+    "downloadAdvice": "Download Advice",
+    "contactAdvisor": "Contact Advisor"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "fields": "Fields",
+    "iot": "Sensors",
+    "alerts": "Alerts",
+    "reports": "Reports",
+    "chat": "Help",
+    "admin": "Admin"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "selectLanguage": "Select Language",
+    "logout": "Logout"
+  }
+}

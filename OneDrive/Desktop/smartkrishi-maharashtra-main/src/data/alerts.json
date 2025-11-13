@@ -1,0 +1,57 @@
+[
+  {
+    "id": "al-101",
+    "type": "water",
+    "severity": "high",
+    "title": "Low soil moisture in Field A",
+    "evidence": "Moisture < 18% for 4h",
+    "recommendation": "Irrigate 1100 L/acre within 12h",
+    "rupeeImpact": 3200,
+    "ts": "2025-11-06T06:30:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-102",
+    "type": "weather",
+    "severity": "medium",
+    "title": "Heavy rain expected tomorrow",
+    "evidence": "IMD forecast 25mm rainfall",
+    "recommendation": "Delay irrigation by 48h",
+    "rupeeImpact": 1500,
+    "ts": "2025-11-06T08:15:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-103",
+    "type": "disease",
+    "severity": "high",
+    "title": "High aphid risk detected",
+    "evidence": "Temp 24°C, RH 85%, 3-day leaf wetness",
+    "recommendation": "Apply neem spray within 24h",
+    "rupeeImpact": 4800,
+    "ts": "2025-11-05T14:20:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-104",
+    "type": "yield",
+    "severity": "low",
+    "title": "NDVI drop in Field B southeast corner",
+    "evidence": "NDVI fell from 0.82 to 0.68 in 7 days",
+    "recommendation": "Inspect for nutrient deficiency or pest damage",
+    "rupeeImpact": 2100,
+    "ts": "2025-11-05T10:00:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-105",
+    "type": "water",
+    "severity": "medium",
+    "title": "Groundwater level declining",
+    "evidence": "Dropped 0.8m in last 30 days",
+    "recommendation": "Consider drip irrigation upgrade",
+    "rupeeImpact": 5600,
+    "ts": "2025-11-04T16:45:00+05:30",
+    "status": "resolved"
+  }
+]

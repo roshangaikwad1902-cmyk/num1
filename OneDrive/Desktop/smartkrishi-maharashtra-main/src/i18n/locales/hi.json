@@ -1,0 +1,69 @@
+{
+  "app": {
+    "name": "स्मार्टकृषि महाराष्ट्र",
+    "tagline": "एआई-संचालित स्मार्ट खेती"
+  },
+  "auth": {
+    "welcome": "स्वागत है",
+    "loginWithPhone": "फोन नंबर से लॉगिन करें",
+    "loginWithEmail": "ईमेल से लॉगिन करें",
+    "phone": "फोन नंबर",
+    "phonePlaceholder": "+91 90000 11111",
+    "sendOTP": "OTP भेजें",
+    "otp": "OTP",
+    "otpPlaceholder": "123456",
+    "verify": "सत्यापित करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "login": "लॉगिन",
+    "otpSent": "OTP भेजा गया!",
+    "loginSuccess": "लॉगिन सफल",
+    "invalidCredentials": "गलत क्रेडेंशियल",
+    "switchToPhone": "फोन पर स्विच करें",
+    "switchToEmail": "ईमेल पर स्विच करें"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "overview": "आज का सारांश",
+    "ndviHealth": "NDVI स्वास्थ्य",
+    "soilMoisture": "मिट्टी की नमी",
+    "irrigationNeed": "सिंचाई की जरूरत",
+    "rainfall": "बारिश का पूर्वानुमान",
+    "groundwater": "भूजल स्तर",
+    "diseaseRisk": "रोग जोखिम",
+    "yieldForecast": "उपज पूर्वानुमान",
+    "lastUpdated": "अंतिम अद्यतन",
+    "litersPerAcre": "लीटर/एकड़",
+    "mm": "मिमी",
+    "meters": "मीटर",
+    "quintalsPerAcre": "क्विंटल/एकड़",
+    "healthy": "स्वस्थ",
+    "moderate": "मध्यम",
+    "low": "कम",
+    "high": "उच्च",
+    "irrigateNow": "सिंचाई करें",
+    "downloadAdvice": "सलाह डाउनलोड करें",
+    "contactAdvisor": "सलाहकार से संपर्क करें"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "fields": "खेत",
+    "iot": "सेंसर",
+    "alerts": "सूचनाएं",
+    "reports": "रिपोर्ट",
+    "chat": "सहायता",
+    "admin": "प्रबंधन"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफल",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "close": "बंद करें",
+    "selectLanguage": "भाषा चुनें",
+    "logout": "लॉग आउट"
+  }
+}

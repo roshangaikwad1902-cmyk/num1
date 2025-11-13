@@ -1,0 +1,14 @@
+[
+  { "id": "node-101", "lat": 18.5210, "lng": 73.8575, "crop": "Sugarcane", "soil": "Vertisol", "gatewayId": "gw-1", "status": "OK", "battery": 87, "rssi": -58 },
+  { "id": "node-102", "lat": 18.5202, "lng": 73.8585, "crop": "Sugarcane", "soil": "Vertisol", "gatewayId": "gw-1", "status": "OK", "battery": 82, "rssi": -62 },
+  { "id": "node-103", "lat": 18.5195, "lng": 73.8570, "crop": "Onion", "soil": "Alfisol", "gatewayId": "gw-1", "status": "Warning", "battery": 45, "rssi": -71 },
+  { "id": "node-104", "lat": 18.5218, "lng": 73.8590, "crop": "Onion", "soil": "Alfisol", "gatewayId": "gw-1", "status": "OK", "battery": 91, "rssi": -55 },
+  { "id": "node-201", "lat": 17.6870, "lng": 74.0125, "crop": "Soybean", "soil": "Alfisol", "gatewayId": "gw-2", "status": "OK", "battery": 78, "rssi": -60 },
+  { "id": "node-202", "lat": 17.6865, "lng": 74.0115, "crop": "Soybean", "soil": "Alfisol", "gatewayId": "gw-2", "status": "OK", "battery": 85, "rssi": -58 },
+  { "id": "node-203", "lat": 17.6875, "lng": 74.0130, "crop": "Wheat", "soil": "Vertisol", "gatewayId": "gw-2", "status": "OK", "battery": 72, "rssi": -65 },
+  { "id": "node-204", "lat": 17.6862, "lng": 74.0120, "crop": "Wheat", "soil": "Vertisol", "gatewayId": "gw-2", "status": "Offline", "battery": 12, "rssi": -88 },
+  { "id": "node-301", "lat": 18.5225, "lng": 73.8600, "crop": "Sugarcane", "soil": "Vertisol", "gatewayId": "gw-1", "status": "OK", "battery": 89, "rssi": -57 },
+  { "id": "node-302", "lat": 18.5190, "lng": 73.8565, "crop": "Onion", "soil": "Alfisol", "gatewayId": "gw-1", "status": "OK", "battery": 76, "rssi": -63 },
+  { "id": "node-303", "lat": 17.6880, "lng": 74.0135, "crop": "Soybean", "soil": "Alfisol", "gatewayId": "gw-2", "status": "Warning", "battery": 38, "rssi": -75 },
+  { "id": "node-304", "lat": 17.6858, "lng": 74.0110, "crop": "Wheat", "soil": "Vertisol", "gatewayId": "gw-2", "status": "OK", "battery": 81, "rssi": -59 }
+]

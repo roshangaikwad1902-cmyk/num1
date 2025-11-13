@@ -1,0 +1,14 @@
+[
+  { "id": "field-a", "name": "Field A", "crop": "Sugarcane", "stage": "Vegetative", "ndvi": 0.82, "alerts": 1, "area": 3.2 },
+  { "id": "field-b", "name": "Field B", "crop": "Onion", "stage": "Bulbing", "ndvi": 0.75, "alerts": 2, "area": 2.8 },
+  { "id": "field-c", "name": "Field C", "crop": "Soybean", "stage": "Flowering", "ndvi": 0.68, "alerts": 0, "area": 2.5 },
+  { "id": "field-d", "name": "Field D", "crop": "Wheat", "stage": "Tillering", "ndvi": 0.71, "alerts": 1, "area": 1.8 },
+  { "id": "field-e", "name": "Field E", "crop": "Sugarcane", "stage": "Grand Growth", "ndvi": 0.85, "alerts": 0, "area": 4.1 },
+  { "id": "field-f", "name": "Field F", "crop": "Onion", "stage": "Maturity", "ndvi": 0.73, "alerts": 1, "area": 2.3 },
+  { "id": "field-g", "name": "Field G", "crop": "Soybean", "stage": "Pod Formation", "ndvi": 0.79, "alerts": 0, "area": 3.0 },
+  { "id": "field-h", "name": "Field H", "crop": "Wheat", "stage": "Booting", "ndvi": 0.77, "alerts": 2, "area": 2.1 },
+  { "id": "field-i", "name": "Field I", "crop": "Sugarcane", "stage": "Ripening", "ndvi": 0.81, "alerts": 0, "area": 3.5 },
+  { "id": "field-j", "name": "Field J", "crop": "Onion", "stage": "Vegetative", "ndvi": 0.70, "alerts": 1, "area": 2.0 },
+  { "id": "field-k", "name": "Field K", "crop": "Soybean", "stage": "Maturity", "ndvi": 0.65, "alerts": 3, "area": 2.7 },
+  { "id": "field-l", "name": "Field L", "crop": "Wheat", "stage": "Grain Filling", "ndvi": 0.74, "alerts": 0, "area": 1.9 }
+]

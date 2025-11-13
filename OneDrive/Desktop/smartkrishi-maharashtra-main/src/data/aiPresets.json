@@ -1,0 +1,26 @@
+{
+  "yield": {
+    "version": "v1.3.2",
+    "features": ["NDVI_t-7", "SoilMoisture_mean", "Rain_7d", "N_level"],
+    "algorithm": "Random Forest",
+    "trainedOn": "2024-09-15"
+  },
+  "groundwater": {
+    "version": "v1.3.2",
+    "features": ["Rain_cum", "ET0", "Season"],
+    "algorithm": "LSTM",
+    "trainedOn": "2024-10-02"
+  },
+  "disease": {
+    "version": "v1.3.2",
+    "features": ["Humidity", "Temp", "LeafWetnessProxy"],
+    "algorithm": "Logistic Regression",
+    "trainedOn": "2024-08-20"
+  },
+  "fertilizer": {
+    "version": "v1.3.2",
+    "features": ["N_rate", "P_rate", "K_rate", "Soil_OC"],
+    "algorithm": "Bayesian Linear",
+    "trainedOn": "2024-09-28"
+  }
+}

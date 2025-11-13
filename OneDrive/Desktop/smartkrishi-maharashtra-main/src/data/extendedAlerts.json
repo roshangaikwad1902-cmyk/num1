@@ -1,0 +1,167 @@
+[
+  {
+    "id": "al-101",
+    "type": "water",
+    "severity": "high",
+    "title": "Low soil moisture in Field A",
+    "evidence": "Moisture < 18% for 4h",
+    "recommendation": "Irrigate 1100 L/acre within 12h",
+    "rupeeImpact": 3200,
+    "ts": "2025-11-06T06:30:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-102",
+    "type": "weather",
+    "severity": "medium",
+    "title": "Heavy rain expected tomorrow",
+    "evidence": "IMD forecast 25mm rainfall",
+    "recommendation": "Delay irrigation by 48h",
+    "rupeeImpact": 1500,
+    "ts": "2025-11-06T08:15:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-103",
+    "type": "disease",
+    "severity": "high",
+    "title": "High aphid risk detected",
+    "evidence": "Temp 24°C, RH 85%, 3-day leaf wetness",
+    "recommendation": "Apply neem spray within 24h",
+    "rupeeImpact": 4800,
+    "ts": "2025-11-05T14:20:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-104",
+    "type": "yield",
+    "severity": "low",
+    "title": "NDVI drop in Field B southeast corner",
+    "evidence": "NDVI fell from 0.82 to 0.68 in 7 days",
+    "recommendation": "Inspect for nutrient deficiency or pest damage",
+    "rupeeImpact": 2100,
+    "ts": "2025-11-05T10:00:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-105",
+    "type": "water",
+    "severity": "medium",
+    "title": "Groundwater level declining",
+    "evidence": "Dropped 0.8m in last 30 days",
+    "recommendation": "Consider drip irrigation upgrade",
+    "rupeeImpact": 5600,
+    "ts": "2025-11-04T16:45:00+05:30",
+    "status": "resolved"
+  },
+  {
+    "id": "al-106",
+    "type": "disease",
+    "severity": "medium",
+    "title": "Fungal leaf spot risk in Field E",
+    "evidence": "High humidity (88%) with warm nights",
+    "recommendation": "Apply Mancozeb 0.25% spray",
+    "rupeeImpact": 2800,
+    "ts": "2025-11-06T09:00:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-107",
+    "type": "water",
+    "severity": "low",
+    "title": "Optimal irrigation timing - Field G",
+    "evidence": "Soil moisture at 45%, ET₀ rising",
+    "recommendation": "Schedule irrigation for tomorrow morning",
+    "rupeeImpact": 800,
+    "ts": "2025-11-06T11:30:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-108",
+    "type": "fertilizer",
+    "severity": "high",
+    "title": "Nitrogen deficiency in Field K",
+    "evidence": "Yellowing leaves, NDVI drop to 0.65",
+    "recommendation": "Apply urea @ 50 kg/acre immediately",
+    "rupeeImpact": 4200,
+    "ts": "2025-11-05T13:15:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-109",
+    "type": "weather",
+    "severity": "high",
+    "title": "Frost risk alert for wheat fields",
+    "evidence": "Temperature dropping to 8°C tonight",
+    "recommendation": "Light irrigation to prevent frost damage",
+    "rupeeImpact": 6500,
+    "ts": "2025-11-06T16:00:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-110",
+    "type": "pest",
+    "severity": "medium",
+    "title": "White grub activity detected in Field D",
+    "evidence": "3 damaged plants per 100 sq.m",
+    "recommendation": "Apply Chlorpyriphos 20 EC @ 2.5 L/acre",
+    "rupeeImpact": 3500,
+    "ts": "2025-11-05T08:45:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-111",
+    "type": "yield",
+    "severity": "low",
+    "title": "Above-average growth in Field E",
+    "evidence": "NDVI at 0.85, 12% above target",
+    "recommendation": "Monitor for lodging risk, consider PGR",
+    "rupeeImpact": -1200,
+    "ts": "2025-11-06T07:20:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-112",
+    "type": "water",
+    "severity": "high",
+    "title": "Waterlogging in Field B low area",
+    "evidence": "Standing water after 18mm rain",
+    "recommendation": "Improve drainage, defer irrigation 72h",
+    "rupeeImpact": 2900,
+    "ts": "2025-11-06T05:30:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-113",
+    "type": "disease",
+    "severity": "low",
+    "title": "Minor rust spots on wheat - Field H",
+    "evidence": "5% leaves affected, early stage",
+    "recommendation": "Monitor closely, apply fungicide if spreads",
+    "rupeeImpact": 1800,
+    "ts": "2025-11-05T12:00:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-114",
+    "type": "fertilizer",
+    "severity": "medium",
+    "title": "Potassium deficiency in onion Field F",
+    "evidence": "Leaf margin burn, reduced bulb size",
+    "recommendation": "Apply MOP @ 40 kg/acre",
+    "rupeeImpact": 3100,
+    "ts": "2025-11-06T10:15:00+05:30",
+    "status": "open"
+  },
+  {
+    "id": "al-115",
+    "type": "weather",
+    "severity": "low",
+    "title": "Favorable conditions for spraying",
+    "evidence": "Low wind (5 km/h), no rain forecast 48h",
+    "recommendation": "Good window for pesticide application",
+    "rupeeImpact": 0,
+    "ts": "2025-11-06T12:00:00+05:30",
+    "status": "open"
+  }
+]
